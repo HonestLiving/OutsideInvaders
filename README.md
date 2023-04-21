@@ -1,0 +1,1 @@
+desktop>src>com>mygdx>game>DesktopLauncher.java to launch the game
